@@ -1,6 +1,10 @@
 https://www.entertainmentdaily.co.uk/feed/
-https://www.hellomagazine.com/rss.xml
-https://www.youtube.com/feeds/videos.xml?channel_id=UChJfh0Y4ycfMbf2SHQzRasg
-https://vipmagazine.ie/feed/
-http://www.vanityfair.com/rss
-https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+https://www.dailyrecord.co.uk/all-about/celtic-fc/?service=rss
+https://www.scotsman.com/sport/football/celtic/rss
+https://feeds.bbci.co.uk/sport/6d397eab-9d0d-b84a-a746-8062a76649e5/rss.xml
+https://www.glasgowtimes.co.uk/sport/celtic/rss/
+https://news.stv.tv/topic/celtic/feed
+https://www.express.co.uk/posts/rss/67.99/celtic
+https://www.footballscotland.co.uk/all-about/celtic-fc?service=rss
+https://www.glasgowworld.com/sport/football/celtic/rss
+https://www.glasgowlive.co.uk/all-about/celtic-fc/?service=rss
