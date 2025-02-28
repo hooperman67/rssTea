@@ -7,3 +7,12 @@ https://www.express.co.uk/posts/rss/67.99/celtic
 https://www.footballscotland.co.uk/all-about/celtic-fc?service=rss
 https://www.glasgowworld.com/sport/football/celtic/rss
 https://www.glasgowlive.co.uk/all-about/celtic-fc/?service=rss
+https://rss.acast.com/acelticstateofmind
+https://www.spreaker.com/show/2287253/episodes/feed
+https://feed.podbean.com/celtichuddlepodcast/feed.xml
+https://shows.acast.com/60e717946b59de00120e3e44
+https://feeds.acast.com/public/shows/5f208eec15e9d83c37daa234
+https://4tims.podomatic.com/rss2.xml
+https://www.spreaker.com/show/1544444/episodes/feed
+https://www.spreaker.com/show/5155742/episodes/feed 
+https://feeds.soundcloud.com/users/soundcloud:users:104114898/sounds.rss
