@@ -2,6 +2,7 @@
 {
   --white: #ffffff;
    --orange: #fc7e11;
+   --lightgreen: #90EE90;
     --darkgrey: #666666;
       --grey: #dddddd;
      --black: #000000;
@@ -28,6 +29,7 @@ body {
 :root {
     --white: #23262b;
     --orange: #fc7e11;
+    --lightgreen: #90EE90;
     --darkgrey: #ddd;
     --grey: #4f5257;
     --black: #ffffff;
@@ -134,13 +136,13 @@ div#filter {
 
 select {
     border: 1px solid #e9f2fb;
-    border:1px solid  var(--lightgrey);
+    border:1px solid  var(--lightgreen);
     padding: 4px;
     font-size: 14px;
     vertical-align: middle;
     width: 106px;
     background: #e9f2fb;
-    background:var(--lightgrey);
+    background:var(--lightgreen);
     border: none;
     color: #2f2f2f;
     color: var(--darkgrey);
@@ -171,7 +173,7 @@ span.tab {
     border-radius: 5px;
     display: inline-block;
     background: #e9f2fb;
-    background:var(--lightgrey);
+    background:var(--lightgreen);
     font-size: 16px;
 }
 
