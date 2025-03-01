@@ -18,7 +18,6 @@ https://www.spreaker.com/show/5155742/episodes/feed
 https://feeds.soundcloud.com/users/soundcloud:users:104114898/sounds.rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UC40iYWGZDD1cC4zvYRCWjHw
 https://www.youtube.com/feeds/videos.xml?channel_id=UCBN-bb-hE7jYlcp4exwXRsQ
-https://www.youtube.com/feeds/videos.xml?channel_id=UCqUPn73T2WxGyzCdtLe8m7g
 https://www.youtube.com/feeds/videos.xml?channel_id=UCm39DIOf_A2tOKswod6PrUQ
 https://www.youtube.com/feeds/videos.xml?channel_id=UCpu4A47KwktyCPj_d9w-ALQ
 https://www.youtube.com/feeds/videos.xml?channel_id=UCk-Y0J8-BUpUG_aIQJ9ZWXg
